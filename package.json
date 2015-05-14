@@ -1,6 +1,6 @@
 {
   "name": "koa-assets-minify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compress js and css in koa app.",
   "homepage": "https://github.com/seandou/koa-assets-minify",
   "repository": {
@@ -30,7 +30,6 @@
   },
   "devDependencies": {
     "mocha": "^2.2.4",
-
     "koa": "~0.19.1",
     "koa-etag": "^2.0.0",
     "koa-conditional-get": "^1.0.2",
