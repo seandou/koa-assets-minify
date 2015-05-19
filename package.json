@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "mocha": "^2.2.4",
+    "should": "^6.0.3",
     "koa": "~0.19.1",
     "koa-etag": "^2.0.0",
     "koa-conditional-get": "^1.0.2",
